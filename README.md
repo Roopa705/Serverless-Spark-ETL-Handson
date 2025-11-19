@@ -92,13 +92,15 @@ Processed Data Output (S3 Parquet)
 
 Screenshots documenting the complete implementation are available showing:
 - Lambda execution logs
-
+<img width="1512" height="982" alt="Image" src="https://github.com/user-attachments/assets/295af4a1-c642-44f9-800a-0d1bf621c15f" />
 - Glue job script and status
-
+<img width="1512" height="982" alt="Image" src="https://github.com/user-attachments/assets/d367a22a-436e-40b5-a649-5a9159d1f75c" />
 - Glue job monitor logs
-
+<img width="1512" height="982" alt="Image" src="https://github.com/user-attachments/assets/667f4d25-0657-4946-b6ed-83d61a43fd30" />
 - Final output data in processed bucket
+<img width="1512" height="982" alt="Image" src="https://github.com/user-attachments/assets/1b602b25-99f7-4e47-82af-dc179c1ca8ff" />
 
+<img width="1512" height="982" alt="Image" src="https://github.com/user-attachments/assets/050478da-296f-49b3-86f6-22bb483d431b" />
 ---
 
 ## 🔑 Key Takeaways
